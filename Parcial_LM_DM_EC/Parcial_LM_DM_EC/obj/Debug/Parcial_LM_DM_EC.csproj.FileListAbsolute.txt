@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\Desktop\C#\Parcial_LM_DM_EC\Parcial_LM_DM_EC\bin\Debug\Parcial_LM_DM_EC.exe.config
+C:\Users\MINEDUCYT\Desktop\C#\Parcial_LM_DM_EC\Parcial_LM_DM_EC\bin\Debug\Parcial_LM_DM_EC.exe
+C:\Users\MINEDUCYT\Desktop\C#\Parcial_LM_DM_EC\Parcial_LM_DM_EC\bin\Debug\Parcial_LM_DM_EC.pdb
+C:\Users\MINEDUCYT\Desktop\C#\Parcial_LM_DM_EC\Parcial_LM_DM_EC\obj\Debug\Parcial_LM_DM_EC.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\C#\Parcial_LM_DM_EC\Parcial_LM_DM_EC\obj\Debug\Parcial_LM_DM_EC.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\C#\Parcial_LM_DM_EC\Parcial_LM_DM_EC\obj\Debug\Parcial_LM_DM_EC.exe
+C:\Users\MINEDUCYT\Desktop\C#\Parcial_LM_DM_EC\Parcial_LM_DM_EC\obj\Debug\Parcial_LM_DM_EC.pdb
